@@ -13,7 +13,7 @@ Here are some ideas to get you started:
   * Python
 * 👯 I’m looking to collaborate on ...
   * Anything related to what I am working on
-  * **fatigue** analysis of alloys.
+  * **Fatigue** analysis of alloys.
 * 💬 Ask me about ...
   * Any of my work or about collaborating on any of my repositories
 
