@@ -1,4 +1,4 @@
-### Hi there, I'm Rob! :scientist:
+### Hi there, I'm Rob! :microscope: :test_tube:
 I am a research scientist working within the Oxford Micromechanics Group, and this is my GitHub profile where I will upload my codes that I have worked on :microscope:.
 <!--
 **IonicRob/IonicRob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
